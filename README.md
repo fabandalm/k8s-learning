@@ -1,4 +1,4 @@
-# Kubernetes Drill
+# Kubernetes Learning
 
 ## k8s-data-01-setup
 Run docker-compose to test node application.
